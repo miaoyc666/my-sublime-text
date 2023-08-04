@@ -6,6 +6,9 @@
 3. 点击选择其中的Install Package Control，等待安装
 4. 安装完成后，Shift+Ctrl+P后输入install，可以看到Package Control：Install Package
 
+#### 一些好用的插件
+1. MarkdownEditing：Markdown插件，提供了丰富的语法高亮和主题，以及实时预览功能
+
 #### settings
 ```json
 {
